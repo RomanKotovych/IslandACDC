@@ -1,7 +1,6 @@
 package com.javarush.island.kotovych.util;
 
 public class Constants {
-    public static final String FAILED_TO_UPDATE_STATISTICS = "Failed to update statistics";
     public static final String START = "Start";
     public static final String NUMBER_CANNOT_BE_STRING = "Number cannot be string";
     public static final String STOP = "Stop";
